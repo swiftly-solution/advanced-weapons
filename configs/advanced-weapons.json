@@ -1,0 +1,10 @@
+{
+    "weapons": {
+        "weapon_ak47": {
+            "clip": 100,
+            "ammo": 300,
+            "unlimitedclip": true,
+            "unlimitedammo": true
+        }
+    }
+}
