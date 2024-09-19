@@ -6,7 +6,7 @@
   <h3 align="center">[Swiftly] Advanced Weapons</h3>
 
   <p align="center">
-    A plugin for Swiftly that gives benefits to players who has your server DNS in their name.
+    A plugin for Swiftly that changes the properties of any weapon.
     <br/>
   </p>
 </p>
